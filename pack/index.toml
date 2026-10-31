@@ -1,0 +1,121 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "c3e4fe1c4469a4cbad5fc201fe7083166b6bf3cab7edb23398a317b4c29bd727"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8cfd619edd7190fdd7f048bc7815193699d0583857f988e421b8e7816167ad25"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "a4c31d16582621909eba9f06a34f03114d212c7e684c8dbc9991fb12a42e043b"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
+metafile = true
+
+[[files]]
+file = "mods/lightweight-inventory-sorting.pw.toml"
+hash = "347457b68c53edc0287ee941be570678d83e79c181a92238729af79e59325549"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b44f3ab71e52f1aaae97cf8644f2316042de8b7777d6b6794567c8c7d220bd2b"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "b41df359e896461ef0b2b78778f3e9ef4b1b94e4448d2ae7cdc723e64e93e1ed"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "bb4973c272697eed8d5d556420659b04c4f9c146c16b19c6162269e45c78f652"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "0b8dfdec9a2625121cdce419d34605e35689ba704cb4d75ada5cbfeeb77c6b4d"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "3a05b7dbab88781794ca24d8018e8b522eed783e8f938929abd2b2ed3454790b"
+preserve = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bloop-shaders.pw.toml"
+hash = "3495531dac46f1035b2a1beac1f96321978ee70c0080835fe7f6606ad60ff183"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "31135d68099785a089f03c458fb5d1e8060a4ccec81dd3b8c36ae34ea4b9c121"
+metafile = true
+
+[[files]]
+file = "shaderpacks/clarityshader.pw.toml"
+hash = "5a6b27ad1c019171f007ffc24e50074f5a580e4d11e854f97240ff48decb4d6d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "1a3d3663c44dc21e227c39c42ea9b5e3c4f3b2e3b5272ed55b45da9e247a46d7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/i-like-vanilla.pw.toml"
+hash = "48c08db0619a6acef520439c96e96240d4920a07b93d8355678aded35f4417fb"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "1d892c58b3e1eede0f0380955b0e53bd6f55d5cbcefa4a6c15eae8d7924c0e26"
+metafile = true
+
+[[files]]
+file = "shaderpacks/mellow.pw.toml"
+hash = "0554cbd2334107d7ca6ecf70ee0d2cde21ab11eb446c4550fe0e75c32000a6d8"
+metafile = true
+
+[[files]]
+file = "shaderpacks/noble.pw.toml"
+hash = "0d573eaf5d81dafadee8c9015a7252cc8b29fd9e7834a637fb651ba287a288a3"
+metafile = true
+
+[[files]]
+file = "shaderpacks/pegasus.pw.toml"
+hash = "a7dd67ad4ac76a06100e54efd5844b55a7807751a357e13fe9e189ab8f4d24f0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "1e4109987a9d4b0bab4302601e08b365b0e3d5b3a39b14b7134f8655c29a6bcc"
+metafile = true
+
+[[files]]
+file = "shaderpacks/renderpearl.pw.toml"
+hash = "faeeadc7551e072bcbb3301798d38bbed9ea3112d0bce4fabc42ccfd0d6e6ef1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "6dad08af50b670e1c317c952104d504f3357eed21009623c4861de8b9ed8b36a"
+metafile = true

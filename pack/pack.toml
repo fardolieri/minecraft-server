@@ -1,0 +1,13 @@
+name = "Horizon Crew"
+author = "Daniel Mittereder"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c28018e24a34d9f1ee490882597db82a27533b02f1369be153ab4785cd835518"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "26.3"
