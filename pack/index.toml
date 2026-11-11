@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "0c1b093774cb3af7de7d98b92d9fb0e5d618c9d01e66a6b5a8c061a54f720671"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "8cfd619edd7190fdd7f048bc7815193699d0583857f988e421b8e7816167ad25"
 metafile = true
