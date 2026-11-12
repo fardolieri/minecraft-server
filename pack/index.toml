@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "b3caf8e25c2a3487d1e0d45bd57ec3839e949d7ee4d28ae9645c4b8e76624f30"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "0c1b093774cb3af7de7d98b92d9fb0e5d618c9d01e66a6b5a8c061a54f720671"
 metafile = true
